@@ -10,7 +10,7 @@ Model evaluation results with PCA:
 - Recall (“precision”): 1   
 - F1 Score (“compromise” between precision and recall): 0.965517241   
 
-Model evaluation with PCA showed no incorrect results.    
+Model evaluation with LDA showed no incorrect results.    
 
 ![Image](https://github.com/AnnaShestova/logistic-regression-pca-lda-python/blob/master/py_pca_test.png?raw=true)
 
